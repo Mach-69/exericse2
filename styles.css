@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    font-family:Times New Roman;
+}
+header{
+        background-color:lightcoral;
+        margin-bottom:0px;
+    }
+
+nav{
+        background-color:lightblue;
+    }
+
+article{
+        background-color:lightgreen;
+        float:left;
+        width:50%;;
+        height:200px;
+        h2{
+            background-color:lightcoral;
+        }
+        p{
+            background-color:lavender;
+        }
+    }
+aside{
+        background-color:gray;
+        float:right;
+        width:50%;
+        height:200px;
+    }
+
+    footer{
+        background-color:orange;
+    }
+
